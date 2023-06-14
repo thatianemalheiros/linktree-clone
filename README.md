@@ -2,7 +2,7 @@
   Linketree
 </h1>
 
-![Linktree]()
+Deploy: ![Linktree](https://funny-moxie-6c66d7.netlify.app/)
 
 Meu linktree pessoal, um site que tem objetivo ter todos os meus links sociais com apenas um link.
 
