@@ -12,6 +12,8 @@ Meu linktree pessoal, um site que tem objetivo ter todos os meus links sociais c
 - [x] CSS
 - [x] Javascript
 - [x] Font Awesome, para ícones
+- [x] Reponsividade
+- [x] Dark Mode
 
 ---
 
